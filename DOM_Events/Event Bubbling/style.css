@@ -1,0 +1,16 @@
+*{
+    color: white;
+}
+div{
+    background-color: red;
+    height: 20rem;
+}
+
+ul{
+    background-color: green;
+}
+
+li{
+    background-color: blue;
+    font-size: 3rem;
+}

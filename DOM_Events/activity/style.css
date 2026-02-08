@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+div{
+    margin-top: 1rem;
+    border:1px solid black;
+    height: 20rem;
+    width:30rem;
+    overflow-wrap: anywhere;
+    overflow-y: scroll;
+}
+
+p{
+    padding:1rem;
+}
